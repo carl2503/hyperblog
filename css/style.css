@@ -1,9 +1,9 @@
 body
 {
-    font-family: Arial, ;
-    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(255, 217, 127);
     font-size: 16px;
 }
 #cabecera
@@ -11,7 +11,7 @@ body
     background-color: antiquewhite;
 }
 
-container
+#container
 {
     width: 70%;
     text-align: left;
