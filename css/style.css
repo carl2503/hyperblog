@@ -6,8 +6,12 @@ body
     background-color: aquamarine;
     font-size: 16px;
 }
+#cabecera
+{
+    background-color: antiquewhite;
+}
 
-#container
+container
 {
     width: 70%;
     text-align: left;
